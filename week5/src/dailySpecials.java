@@ -44,7 +44,7 @@ specials = input.next();
                 price = 4.95;
                 System.out.println(specials + "'s coffee of the day is a " + coffee + " and the price will be $"
                         + price + ".");
-                System.out.println("How many would you  like to order?");
+                System.out.println("How many would you like to order?");
                 qty = Integer.parseInt(input.next());
                 if (qty <= 0){
                     System.out.println("Looks like you don't like " + coffee + "s. We hope you will come another time.");
@@ -61,7 +61,7 @@ specials = input.next();
                 price = 5.95;
                 System.out.println(specials + "'s coffee of the day is a " + coffee + " and the price will be $"
                         + price + ".");
-                System.out.println("How many would you  like to order?");
+                System.out.println("How many would you like to order?");
                 qty = Integer.parseInt(input.next());
                 if (qty <= 0){
                     System.out.println("Looks like you don't like " + coffee + "s. We hope you will come another time.");
@@ -78,7 +78,7 @@ specials = input.next();
                 price = 4.35;
                 System.out.println(specials + "'s coffee of the day is a " + coffee + " and the price will be $"
                         + price + ".");
-                System.out.println("How many would you  like to order?");
+                System.out.println("How many would you like to order?");
                 qty = Integer.parseInt(input.next());
                 if (qty <= 0){
                     System.out.println("Looks like you don't like " + coffee + "s. We hope you will come another time.");
@@ -95,7 +95,7 @@ specials = input.next();
                 price = 2.95;
                 System.out.println(specials + "'s coffee of the day is a " + coffee + " and the price will be $"
                         + price + ".");
-                System.out.println("How many would you  like to order?");
+                System.out.println("How many would you like to order?");
                 qty = Integer.parseInt(input.next());
                 if (qty <= 0){
                     System.out.println("Looks like you don't like " + coffee + "s. We hope you will come another time.");
@@ -112,7 +112,7 @@ specials = input.next();
                 price = 6.95;
                 System.out.println(specials + "'s coffee of the day is a " + coffee + " and the price will be $"
                         + price + ".");
-                System.out.println("How many would you  like to order?");
+                System.out.println("How many would you like to order?");
                 qty = Integer.parseInt(input.next());
 
                 if (qty <= 0){
